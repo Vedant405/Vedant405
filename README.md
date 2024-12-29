@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedant Mali</h1>
 <h3 align="center">A passionate android and fullstack developer from India</h3>
 
+<img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://tenor.com/view/computer-cat-working-type-typing-gif-7817705)" alt="developer gif" align="center" width="500"/>
+
 - 🔭 I’m currently working on [Nyasa accounts](https://github.com/Vedant405/nyasa)
 
 - 🌱 I’m currently learning **BloC state management(flutter), node.js**
