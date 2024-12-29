@@ -2,7 +2,7 @@
 <h3 align="center">A passionate android and fullstack developer from India</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/your-gif-link-here/giphy.gif" alt="coding-gif" width="500"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="coding-gif" width="500"/>
 </div>
 - 🔭 I’m currently working on [Nyasa accounts](https://github.com/Vedant405/nyasa)
 
