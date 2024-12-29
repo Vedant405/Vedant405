@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Mali</h1>
 <h3 align="center">A passionate android and fullstack developer from India</h3>
 
-<div class="tenor-gif-embed" data-postid="7817705" data-share-method="host" data-aspect-ratio="1.75" data-width="100%"><a href="https://tenor.com/view/computer-cat-working-type-typing-gif-7817705">Computer Cat GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="developer gif" align="center" width="500"/>
 
 - 🔭 I’m currently working on [Nyasa accounts](https://github.com/Vedant405/nyasa)
 
